@@ -1,6 +1,7 @@
 # Libelium Parking Sensor V2 Decoder
 
 A Python library for decoding Libelium Smart Parking Sensor V2 payloads.
+Unfortunately, Libelium does not provide official documentation for payload, so we can only guess what each byte means based on observed data.
 
 ## Installation
 
